@@ -1,6 +1,10 @@
-.card-group{
-    padding: 30px 37px; 
+.card-list{
     display: flex;
+    flex: 0 0 auto; 
+    gap: 20px; 
+    flex-wrap: nowrap;
+    /* overflow-x: auto;  */
     justify-content: space-between;
     align-items: center;
+    
 }
